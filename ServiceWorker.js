@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TestWpa-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.br",
-    "Build/Build.data.br",
-    "Build/Build.wasm.br",
+    "Build/TestWpa.loader.js",
+    "Build/TestWpa.framework.js",
+    "Build/TestWpa.data",
+    "Build/TestWpa.wasm",
     "TemplateData/style.css"
 
 ];
